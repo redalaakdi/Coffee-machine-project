@@ -12,9 +12,9 @@ bridging tech and digital marketing. Open to opportunities.
 
 - ☕ [Coffee Machine Simulator](./Day%2015/Coffee%20Machine%20Project/mycode.py) — OOP-based vending machine simulation
 - 🃏 [Blackjack Game](./Day%2011/task/main.py) — terminal card game with dealer logic and scoring
-- 🔨 [Blind Auction](https://github.com/redalaakdi/Coffee-machine-project/blob/master/Day%209/Blind%20Auction%20Project/main.py) — dictionary-based bidding system
-- 🔐 [Password Generator](https://github.com/redalaakdi/Coffee-machine-project/blob/master/Day%205/Password%20Generator%20Project/task.py) — secure password generator using randomization and list comprehension
-- 🎲 [Higher-Lower Game](https://github.com/redalaakdi/Coffee-machine-project/blob/master/Day%2014/Higher%20or%20Lower%20Project/main.py) — comparison game with dynamic scoring and replay logic
+- 🔨 [Blind Auction](./Day%209/Blind%20Auction%20Project/main.py) — dictionary-based bidding system
+- 🔐 [Password Generator](./Day%205/Password%20Generator%20Project/task.py) — secure password generator using randomization and list comprehension
+- 🎲 [Higher-Lower Game](./Day%2014/Higher%20or%20Lower%20Project/main.py) — comparison game with dynamic scoring and replay logic
 
 ## Skills practiced
 Python fundamentals, OOP, functions, error handling, file I/O, dictionaries, list comprehension
