@@ -4,7 +4,7 @@ My projects from Angela Yu's 100 Days of Code Python bootcamp.
 
 ## 🌟 Featured Projects
 
-- ☕ [Coffee Machine Simulator](./Day%2015/Coffee%20Machine%20Project/main.py) — OOP-based vending machine simulation
+- ☕ [Coffee Machine Simulator]([./Day%2015/Coffee%20Machine%20Project/main.py](https://github.com/redalaakdi/Coffee-machine-project/blob/master/Day%2015/Coffee%20Machine%20Project/mycode.py)) — OOP-based vending machine simulation
 - 🃏 [Blackjack Game](./Day%2011/task/main.py) — terminal card game with dealer logic and scoring
 
 ## Skills practiced
